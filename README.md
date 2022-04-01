@@ -7,7 +7,7 @@ Wave:
 
 Synthesis:
 
-![image](https://user-images.githubusercontent.com/64843338/161256648-68a3dfcb-5d3e-48ac-85b0-1ae295afe03c.png)
+![image](https://user-images.githubusercontent.com/64843338/161256985-35ea45c5-be60-44ba-bdaa-ab0e4f9c0e89.png)
 
 
 APR:
